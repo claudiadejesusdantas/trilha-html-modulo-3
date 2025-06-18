@@ -16,4 +16,7 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
 
+## Resultado da Wiki Criminal Minds
+Link: <a href="https://www.tiktok.com/@claudiadjdantas/video/7517373721833786629?is_from_webapp=1&sender_device=pc&web_id=7514790364729935365">Vídeo Tiktok</a>
+
 
