@@ -37,6 +37,11 @@ figure {
     text-align: center;
 }
 
+.tabela table{
+   margin: 15px;
+   width: 100%;
+}
+
 .tabela tr:nth-child(even) {
     background-color: lightgray;
 }
